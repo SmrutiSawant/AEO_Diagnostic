@@ -103,8 +103,3 @@ aeo-diagnostic/
 
 ---
 
-## ⚠️ Important Note
-
-This app calls APIs directly from the browser (fine for local development).  
-For a **production deployment**, route API calls through a backend server  
-so your API keys are never exposed publicly.
